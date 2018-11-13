@@ -37,6 +37,18 @@
                 </select>
             </div>
         </div>
+        <div class="form-group row">
+            <label class="col-sm-2 col-form-label">Nome da pessoa/família: </label>
+            <div class="col-sm-10">
+                <input class="form-control" type="text" placeholder="Digite aqui">
+            </div>
+        </div>
+        <div class="form-group row">
+            <label class="col-sm-2 col-form-label">Descreva sua visita: </label>
+            <div class="col-sm-10">
+                <textarea class="form-control" rows="5" type="text"></textarea>
+            </div>
+        </div>
         <br/>
         <br/>
         <div class="form-group row">
